@@ -4,7 +4,7 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+#relative_permalinks: true  #option not supported anymore by github pages
 
 # Setup
 title:            Hyde
